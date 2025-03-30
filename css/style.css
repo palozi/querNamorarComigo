@@ -1,0 +1,49 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url('../imagens/CSS\ Background\ Image\ –\ How\ to\ Add\ an\ Image\ URL\ to\ Your\ Div.jpeg') no-repeat center center;
+    background-size: cover;
+  }
+  
+  .container-xl {
+    text-align: center;
+    margin: 100px;
+    padding: 30px;
+    border-radius: 30px;
+
+  }
+  
+  
+  .botoes {
+    border: 20px;
+    
+  }
+  
+  
+  #botaoMaluco {
+    position: absolute;
+    
+    transition: top 0.5s ease, left 0.5s ease;
+  }
+  
+ 
+  #sim {
+    background-color: rgb(241, 73, 166);
+  }
+  #botaoMaluco {
+    background-color: rgb(241, 73, 166);
+  }
+  a{
+    text-decoration: none;
+    color: inherit;
+  }
+  
