@@ -9,7 +9,7 @@ Veja aqui como fica a página: Quer Namorar Comigo?
 
 Como Usar?
 
-acesse o link https://palozi.github.io/querNamorarComigo/
+acesse o link https://palozi.github.io/querNamorarComigo/ ou
 Abra o arquivo index.html no navegador
 
 Clique no botão “SIM” para ouvir a música.
