@@ -8,7 +8,7 @@ O botão “NÃO” foge para posições aleatórias, dificultando que seja clic
 Veja aqui como fica a página: Quer Namorar Comigo?
 
 Como Usar
-acesse o link 
+acesse o link https://palozi.github.io/querNamorarComigo/
 Abra o arquivo index.html no navegador
 
 Clique no botão “SIM” para ouvir a música.
